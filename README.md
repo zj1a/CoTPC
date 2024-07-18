@@ -1,14 +1,16 @@
 # Chain-of-Thought Predictive Control (CoTPC)
 This is the official repository for CoTPC, a powerful hierarchical imitation learning model presented in the following paper:
 
-### **[Chain-of-Thought Predictive Control](https://zjia.eng.ucsd.edu/cotpc)**<br>
-Zhiwei Jia, Fangchen Liu, Vineet Thumuluri, Linghao Chen, Zhiao Huang, Hao Su<br>
+### **[Chain-of-Thought Predictive Control](https://sites.google.com/view/cotpc)**<br>
+Zhiwei Jia, Vineet Thumuluri, Fangchen Liu, Linghao Chen, Zhiao Huang, Hao Su<br>
 UC San Diego, UC Berkeley, Zhejiang University<br>
 
 <p align="center">
   <img src='github_teaser.png' width="700"/><br>
-  <a href="https://arxiv.org/abs/2304.00776">[arXiv]</a>&emsp;<a href="https://zjia.eng.ucsd.edu/cotpc">[website]</a>
+  <a href="https://arxiv.org/abs/2304.00776">[arXiv]</a>&emsp;<a href="https://sites.google.com/view/cotpc">[website]</a>
 </p>
+
+** This repo will be updated for the ICML 2024 version of CoTPC. The old version is at https://github.com/SeanJia/CoTPC. **
 
 ### Tasks
 Currently the code supports five tasks from the [ManiSkill2](https://github.com/haosulab/ManiSkill2) benchmark: 
